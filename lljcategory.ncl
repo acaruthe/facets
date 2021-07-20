@@ -26,7 +26,7 @@ begin
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
- external UTIL17 "/glade/work/acaruth/facets/lljonlyseptember.so" ;change path here !
+ external UTIL17 "/glade/work/acaruth/facets/llj.so" ;change path here !
 ;----------------------------------------------------------------------
 
 ;read in regcm variables 
